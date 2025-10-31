@@ -3,11 +3,11 @@ export const bio =
 
 
 export const skills = [
-  { name: "Frontend", items: ["React.js", "Next.js", "Tailwind CSS", "Astro.js", "JavaScript", "HTML5", "CSS"] },
+  { name: "Frontend", items: ["React.js", "Next.js", "Tailwind CSS", "JavaScript", "HTML5", "CSS"] },
   { name: "Backend", items: ["Node.js", "Express", "TypeScript"] },
   { name: "Database", items: ["MongoDB", "PostgreSQL", "MySQL", "Supabase"] },
   // { name: "CMS & Headless CMS", items: ["WordPress", "Strapi.js"] },
-  { name: "Tools & Platform", items: ["Git", "GitHub","JIRA", "Postman", "VS Code", "Figma", "Draw.io", "Strapi"] },
+  { name: "Tools & Platform", items: ["Git", "GitHub","JIRA", "Postman", "VS Code", "Figma"] },
   { name: "Programming Languages", items: ["C", "Java", "Python"] },
   // { name: "Computer Fundamentals", items: ["Operating System: Linux, Windows", "Object-Oriented Programming"] },
 ];
@@ -16,11 +16,12 @@ export const experience = [
     {
     title: "Trainee / Intern Software Developer",
     company: "AYANWORKS Technology Solutions Private Limited",
-    duration: "July 2024 - May 2025",
+    duration: "July 2024 - October 2025",
     description: [
-       "Developed dynamic and responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.",
-       "Participated in the entire software development lifecycle from architecture to deployment.",
-       "Managed tasks across multiple projects, showcasing strong time management, problem-solving, and collaboration."
+       "Contributed to developing scalable, responsive web apps using React.js, Next.js, and TypeScript.",
+       "Collaborated within Agile teams and participated in code reviews, editing, debugging, and documentation.",
+       "Gained exposure to REST API development and Git-based version control workflows.",
+       "Developed curiosity-driven features improving component reusability and UI performance."
     ],
   },
 
@@ -40,8 +41,8 @@ export const education = [
     {
     collegeName: "Vishwakarma University",
     department: "B.Tech Computer Science Engineering",
-    duration: "August 2022 - May 2025",
-    cgpa: "8.15/10",
+    duration: "August 2022 - October 2025",
+    cgpa: "8.25/10",
   },
 
   {
