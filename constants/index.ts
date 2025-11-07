@@ -51,6 +51,13 @@ export const education = [
     duration: "June 2019 - May 2022",
     cgpa: "79.92%",
   },
+
+  {
+    collegeName: "Vishwakarma Vidyalaya",
+    department: "10th SSC",
+    duration: "June 2018 - May 2019",
+    cgpa: "87.2%",
+  }
 ]
 
 export const projects = [
