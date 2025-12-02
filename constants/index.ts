@@ -116,6 +116,21 @@ export const projects = [
     ],
     link: "https://github.com/alok-more/PinaVault",
   },
+  
+  {
+    title: "GitaGPT - Bhagavad Gita AI Chatbot",
+    description:
+      "GitaGPT is an AI-powered chatbot that provides guidance from the Bhagavad Gita. It explains the teachings of the Gita in a simple and friendly manner, with Sanskrit shlokas always preserved and explained in the user’s language (Marathi or English).",
+    techs: [
+      "python",
+      "streamlit",
+      "generative-ai",
+      "langchain",
+      "grok",
+      "grok-api", 
+    ],
+    link: "https://gita-gpt-ai.streamlit.app",
+  },
   {
     title: "Gemini PDF Chatbot using Streamlit",
     description:
