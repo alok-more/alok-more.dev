@@ -131,6 +131,20 @@ export const projects = [
     ],
     link: "https://gita-gpt-ai.streamlit.app",
   },
+    {
+    title: "Face Recognition System using OpenCV & SQLite",
+    description:
+      "A real-time Face Recognition System built using Python, OpenCV (LBPH algorithm), and SQLite. The system captures face images, trains a model, stores user data in a database, and recognizes faces using a webcam.",
+    techs: [
+      "python",
+      "OpenCV",
+      "NumPy",
+      "Pillow (PIL)",
+      "SQLite",
+      "Haar Cascade Classifier", 
+    ],
+    link: "https://github.com/alok-more/Face-Recognition-Project",
+  },
   {
     title: "Gemini PDF Chatbot using Streamlit",
     description:
