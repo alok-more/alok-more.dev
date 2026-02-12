@@ -1,5 +1,5 @@
 export const bio =
-  "My name is Alok More.  Proactive and detail-oriented Software Developer with strong experience in frontend development, Web3 applications, and IoT-based systems. Demonstrated expertise in building scalable and responsive web applications using modern frameworks such as React.js, Next.js, TypeScript, HTML, CSS, JavaScript. Passionate about solving complex technical problems, continuously learning emerging technologies, and contributing to impactful software products.";
+  "My name is Alok More. Curious and motivated Software Engineering student with a passion for exploring how things work internally and building meaningful solutions. Experienced in developing modern web applications using React.js, with exposure to AI tools, Linux environments, Agile practices, and version control using GitHub. Eager to learn, collaborate, and contribute within a dynamic team environment while continuously enhancing technical and problem-solving skills. ";
 
 export const skills = [
   {
@@ -17,10 +17,11 @@ export const skills = [
   { name: "Database", items: ["MongoDB", "PostgreSQL", "MySQL", "Supabase"] },
   // { name: "CMS & Headless CMS", items: ["WordPress", "Strapi.js"] },
   {
-    name: "Tools & Platform",
+    name: "Version Control & Tools",
     items: ["Git", "GitHub", "JIRA", "Postman", "VS Code", "Figma"],
   },
   { name: "Programming Languages", items: ["C", "Java", "Python"] },
+  { name: "AI Tools", items: ["ChatGPT", "Claude", "Cursor", "Lovable", "Grok", "Bolt"] },
   // { name: "Computer Fundamentals", items: ["Operating System: Linux, Windows", "Object-Oriented Programming"] },
 ];
 
