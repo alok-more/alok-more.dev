@@ -26,6 +26,19 @@ export const skills = [
 ];
 
 export const experience = [
+
+    {
+    title: "Data & AI Trainee",
+    company: "Fujitsu Consulting India Private Limited",
+    duration: "March 2026 - Present",
+    description: [
+      "Developed AI-powered applications using Python, integrating Generative AI, LLM APIs, and workflow automation.",
+      "Built AI agents with memory, tool calling, and RAG pipelines for intelligent document processing and chatbots.",
+      "Designed and optimized SQL queries, REST APIs, and backend services for efficient data management and retrieval.",
+      "Collaborated in Agile teams using Git, contributing to code reviews, debugging, testing, and technical documentation.",
+    ],
+  },
+
   {
     title: "Trainee / Intern Software Developer",
     company: "AYANWORKS Technology Solutions Private Limited",
